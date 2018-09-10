@@ -1,6 +1,6 @@
 # Maintainer: Augugrumi <augugrumi@gmail.com>
 pkgname=libtuntap-git # '-bzr', '-git', '-hg' or '-svn'
-pkgver=libtuntap.0.3.r42.e88b9d4
+pkgver=libtuntap.0.3.r46.9e9e2d9
 pkgrel=1
 pkgdesc=" The portable Tun/Tap devices configuration utility"
 arch=('x86_64')
